@@ -15,4 +15,4 @@
   <p><b>**Data Analysis**</b>: In data analysis, Venn diagrams can be used to compare and contrast different data sets, identify commonalities and differences between groups, and visualize overlaps between categories or groups.</p>
   <p><b>**Decision Making**</b>: Venn diagrams can aid in decision-making processes by visually representing options, criteria, and their intersections to help identify the best course of action.</p>
 
-<p>Overall, Venn diagrams are a versatile and effective tool for visually organizing information, analyzing relationships between sets, and solving problems in various fields.<p>
+<p>Venn diagrams are a versatile and effective tool for visually organizing information, analyzing relationships between sets, and solving problems in various fields.<p>
