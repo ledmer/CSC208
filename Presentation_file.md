@@ -2,13 +2,13 @@
 <p>A Venn diagram is a graphical representation used to show the relationships between sets of elements. It consists of overlapping circles (or other shapes) where each circle represents a set, and the overlapping areas represent the elements that belong to multiple sets. The non-overlapping areas represent elements that belong exclusively to one set.<p>
 <img src="image.png" alt="???" width="250" height="300"> 
 
-<p>1. **Sets**: Each circle in a Venn diagram represents a set of elements. These sets can represent any category or group of items.</p>
+<p><h3>1. **Sets**</h3>: Each circle in a Venn diagram represents a set of elements. These sets can represent any category or group of items.</p>
 
-<p>2. **Overlap**: The overlapping areas between the circles represent elements that belong to more than one set. The size of the overlap indicates the degree of commonality between the sets.</p>
+<p><h3>2. **Overlap**</h3>: The overlapping areas between the circles represent elements that belong to more than one set. The size of the overlap indicates the degree of commonality between the sets.</p>
 
-<p>3. **Non-overlapping Areas**: The parts of each circle that do not overlap with any other circle represent elements that are unique to that particular set.</p>
+<p><h3>3. **Non-overlapping Areas**</h3>: The parts of each circle that do not overlap with any other circle represent elements that are unique to that particular set.</p>
 
-<p>4. **Usage**:</p>
+<p><h3>4. **Usage**</h3>:</p>
    <p><b>**Logic and Mathematics**</b>: Venn diagrams are commonly used in logic, mathematics, and statistics to visually represent relationships between different sets, such as intersections, unions, complements, and subsets.</p>
   <p><b>**Problem-solving**</b>: They are useful for solving problems involving set theory, probability, and logic by visually organizing information and identifying relationships between different sets.</p>
   <p><b>**Education**</b>: Venn diagrams are often used in education to teach concepts related to set theory, logic, and classification. They help students visualize relationships between different groups of items.</p>
