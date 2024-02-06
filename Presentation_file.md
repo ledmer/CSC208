@@ -1,4 +1,4 @@
-![Alt text](image.png)
+<img src="image.png" alt="???" width="500" height="600">  
 A Venn diagram is a graphical representation used to show the relationships between sets of elements. It consists of overlapping circles (or other shapes) where each circle represents a set, and the overlapping areas represent the elements that belong to multiple sets. The non-overlapping areas represent elements that belong exclusively to one set.
 
 
