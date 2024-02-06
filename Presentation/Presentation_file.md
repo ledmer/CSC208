@@ -17,7 +17,7 @@
   <p><b>**Decision Making**</b>: Venn diagrams can aid in decision-making processes by visually representing options, criteria, and their intersections to help identify the best course of action.</p>
 
 <h3>4. **Problem**:</h3>
-<img src="img/Presentation_Problem.png" alt="???" width="400" height="220"> 
+<img src="img/Presentation_Problem.png" alt="???" width="500" height="220"> 
 
 <p>Venn diagrams are a versatile and effective tool for visually organizing information, analyzing relationships between sets, and solving problems in various fields.<p>
 <h2> Sources:</h2>
