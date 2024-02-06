@@ -20,3 +20,5 @@
 <img src="img/Presentation_Problem.png" alt="???" width="400" height="220"> 
 
 <p>Venn diagrams are a versatile and effective tool for visually organizing information, analyzing relationships between sets, and solving problems in various fields.<p>
+<h2> Sources:</h2>
+<a href="https://www.onlinemathlearning.com/venn-diagram-word-problems.html">Onlinemathlearning.com</a>
