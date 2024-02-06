@@ -9,10 +9,10 @@
 <p>3. **Non-overlapping Areas**: The parts of each circle that do not overlap with any other circle represent elements that are unique to that particular set.</p>
 
 <p>4. **Usage**:</p>
-   <p>- **Logic and Mathematics**: Venn diagrams are commonly used in logic, mathematics, and statistics to visually represent relationships between different sets, such as intersections, unions, complements, and subsets.</p>
-  <p> - **Problem-solving**: They are useful for solving problems involving set theory, probability, and logic by visually organizing information and identifying relationships between different sets.</p>
-  <p> - **Education**: Venn diagrams are often used in education to teach concepts related to set theory, logic, and classification. They help students visualize relationships between different groups of items.</p>
-  <p> - **Data Analysis**: In data analysis, Venn diagrams can be used to compare and contrast different data sets, identify commonalities and differences between groups, and visualize overlaps between categories or groups.</p>
-  <p> - **Decision Making**: Venn diagrams can aid in decision-making processes by visually representing options, criteria, and their intersections to help identify the best course of action.</p>
+   <p><b>**Logic and Mathematics**</b>: Venn diagrams are commonly used in logic, mathematics, and statistics to visually represent relationships between different sets, such as intersections, unions, complements, and subsets.</p>
+  <p><b>**Problem-solving**</b>: They are useful for solving problems involving set theory, probability, and logic by visually organizing information and identifying relationships between different sets.</p>
+  <p><b>**Education**</b>: Venn diagrams are often used in education to teach concepts related to set theory, logic, and classification. They help students visualize relationships between different groups of items.</p>
+  <p><b>**Data Analysis**</b>: In data analysis, Venn diagrams can be used to compare and contrast different data sets, identify commonalities and differences between groups, and visualize overlaps between categories or groups.</p>
+  <p><b>**Decision Making**</b>: Venn diagrams can aid in decision-making processes by visually representing options, criteria, and their intersections to help identify the best course of action.</p>
 
 <p>Overall, Venn diagrams are a versatile and effective tool for visually organizing information, analyzing relationships between sets, and solving problems in various fields.<p>
