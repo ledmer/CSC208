@@ -1,0 +1,22 @@
+import itertools
+
+def truth_table(expression):
+    variables = sorted(set([char for char in expression if char.isalpha()]))
+    values = list(itertools.product([False, True], repeat=len(variables)))
+    
+    header = " | ".join(variables + [expression])
+    separator = "-" * len(header)
+    
+    print(header)
+    print(separator)
+    
+    for assignment in values:
+        evaluation = expression
+        for variable, value in zip(variables, assignment):
+            evaluation = evaluation.replace(variable, str(value))
+        result = eval(evaluation)
+        print(" | ".join(map(str, assignment + (result,))))
+
+# Example usage:
+truth_table("A and B")
+
