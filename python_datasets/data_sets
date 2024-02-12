@@ -1,0 +1,38 @@
+import matplotlib.pyplot as plt
+
+def display_data(data_set):
+    for item in data_set:
+        print(item)
+
+# Example data sets
+set1 = {40, 6, 2, 1, 20, 2, 10, 3, 4, 5}
+set2 = {'apple', 'banana', 'orange', 'grape'}
+
+# Displaying the data sets
+print("Data Set 1:")
+display_data(set1)
+print("\nData Set 2:")
+display_data(set2)
+
+def display_data_graphically(data_set):
+    # Count the frequency of each unique element in the set
+    unique_elements = list(set(data_set))
+    frequencies = [data_set.count(element) for element in unique_elements]
+    
+    # Plotting the data
+    plt.bar(unique_elements, frequencies)
+    plt.xlabel('Elements')
+    plt.ylabel('Frequency')
+    plt.title('Frequency of Elements in the Set')
+    plt.show()
+
+# Example data sets
+set3 = [1, 2, 3, 4, 5, 5, 5, 4, 3, 2, 1]
+set4 = ['apple', 'banana', 'orange', 'grape', 'apple', 'apple', 'banana', 'banana']
+
+# Displaying the data sets graphically
+print("Data Set 3:")
+display_data_graphically(set3)
+print("\nData Set 4:")
+display_data_graphically(set4)
+
