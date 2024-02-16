@@ -19,7 +19,7 @@ $5 * 3 * 17 = 255$
 	$(shirts * (skirts + pants)) + dress = Noutfits$
 	$(5 * (4+3)) + 7 = 42$
 #### 3. Your Blu-ray collection consists of 9 comedies and 7 horror movies. Give an example of a question for which the answer is: 
--	16
-You feel like watching a movie but **only one** because you are busy. how many options of movies do you have in your Blu-ray collection?
--	63
-You wanna organize your movies, but you can't decide how, by alphabet, by genre, by how much you like them, **Too much options!!**, how many options do you have to organize them.
+-	16\
+    You feel like watching a movie but **only one** because you are busy. how many options of movies do you have in your Blu-ray collection?
+-	63\
+You wanna organize your movies, but you can't decide how, by alphabet, by genre, by how much you like them, **Too much options!!**, how many options do you have to organize them?.
