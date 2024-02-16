@@ -16,7 +16,7 @@ $5 * 3 * 17 = 255$
 
 - For the rest of your outfit, you have 5 shirts, 4 skirts, 3 pants, and 7 dresses. You want to select either a shirt to wear with a skirt or pants, or just a dress. How many outfits do you have to choose from?
 
-	$(shirts * (skirts + pants)) + dress = Noutfits$
+	$(shirts * (skirts + pants)) + dress = Noutfits$\
 	$(5 * (4+3)) + 7 = 42$
 #### 3. Your Blu-ray collection consists of 9 comedies and 7 horror movies. Give an example of a question for which the answer is: 
 -	16\
