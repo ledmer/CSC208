@@ -49,7 +49,7 @@ Answer provided: Yes. We will prove the contrapositive. Assume G does not contai
 
 # 14.
 
-To create a graph with exactly 7 spanning trees and verify it using the Laplace matrix and Kirchhoff's Theorem, we need to carefully choose a graph structure. Let's follow these steps:
+To create a graph with exactly 7 spanning trees we need to verify it using the Laplace matrix and Kirchhoff's Theorem, to do so we need to carefully choose a graph structure. Let's follow these steps:
 
 1. **Graph Selection**: We need to select a graph that has exactly 7 spanning trees. A suitable candidate is a simple graph that is neither too sparse nor too dense. One such graph is a modified star graph where we adjust edges to meet our requirement.
 
@@ -61,13 +61,7 @@ To create a graph with exactly 7 spanning trees and verify it using the Laplace 
         - Connect vertex 2 to vertex 5.
 
     This graph should look like this:
-    ```
-       1
-     / | \
-    2--3  4
-     \
-      5
-    ```
+
     ```mermaid
     graph TD;
         1 --> 2;
@@ -135,24 +129,24 @@ To create a graph with exactly 7 spanning trees and verify it using the Laplace 
         3 & -1 & 0 \\
         -1 & 2 & 0 \\
         0 & 0 & 1 \\
-    \end{vmatrix}$
+    \end{vmatrix}+$ 
     $ (-1) 
     \begin{vmatrix}
         -1 & -1 & 0 \\
         -1 & 2 & 0 \\
         -1 & 0 & 1 \\
-    \end{vmatrix}$
+    \end{vmatrix}+$
     $ (-1) \begin{vmatrix}
     -1 & 3 & 0 \\
     -1 & -1 & 0 \\
     -1 & 0 & 1 \\
-    \end{vmatrix}$
+    \end{vmatrix}+$
     $ (-1) \begin{vmatrix}
     -1 & 3 & -1 \\
     -1 & -1 & -1 \\
     -1 & -1 & 2 \\
     \end{vmatrix}$
-    $
+    
 
     After computing the determinants of the 3x3 matrices, we find that:
     $
