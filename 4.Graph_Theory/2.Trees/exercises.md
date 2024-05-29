@@ -62,12 +62,18 @@ To demonstrate a graph with exactly 7 different spanning trees, we'll construct 
 
 ```mermaid
 graph TD;
-    A --> B;
-    A --> C;
-    A --> D;
-    A --> E;
-    B --> C;
-    C --> D;
-    D --> E;
-    E --> B;
+    A-->B;
+    B-->C;
+    C-->D;
+    D-->E;
+    E-->F;
+    F-->G;
+    G-->A;
+    A-->C;
+    B-->D;
+    C-->E;
+    D-->F;
+    E-->G;
+    F-->A;
+    G-->B;
 ```
