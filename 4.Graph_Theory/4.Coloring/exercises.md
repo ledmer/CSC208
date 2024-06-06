@@ -10,9 +10,9 @@ b. Ten members of Math Club are driving to a math conference in a neighboring st
 
 ![completegrap](student_conflicts.png)
 
-$ Vertex set: {A,B,C,D,E,F,G,H,I,J}$
+$Vertex set: {A,B,C,D,E,F,G,H,I,J}$
 
-$Edge set: (A−B),(A−E),(A−J),(B−A),(B−D),(B−G),(C−H),(C−J),(D−B),(D−F),(E−A),(E−I),(F−D),(F−J),(G−B),(H−C),(H−I),(I−E),(I−H),(I−J),(J−A),(J−C),(J−F),(J−I)$
+$Edge set: {(A−B),(A−E),(A−J),(B−A),(B−D),(B−G),(C−H),(C−J),(D−B),(D−F),(E−A),(E−I),(F−D),(F−J),(G−B),(H−C),(H−I),(I−E),(I−H),(I−J),(J−A),(J−C),(J−F),(J−I)}$
 
 > We use the conflicting sets that conflict to make our graphs
 
@@ -29,3 +29,31 @@ The wheel graph below has this property. The outside of the wheel forms an odd c
 
 ![completegrap](9img.png)
 
+## 10. Find the chromatic number of the graph below and prove you are correct.
+![alt text](10.png)
+
+This is a Grötzsch graph and it has the following properties: 11 vertices and 20 edges. It is triangle-free and it has a chromatic number of 4. 
+The graph can be constructed by taking a 5-cycle and replacing each vertex with a "fan" of three vertices.
+
+Let's attempt to color the vertices using 3 colors: Red (R), Blue (B), and Green (G).
+
+Assign color to vertex 0:
+
+Without loss of generality, color vertex 0 with Red (R).
+Assign colors to adjacent vertices 1, 2, 3, 4:
+
+Vertices 1, 2, 3, and 4 must be colored with either Blue (B) or Green (G) since they are all adjacent to vertex 0.
+Suppose vertex 1 is Blue (B), vertex 2 is Green (G), vertex 3 is Blue (B), and vertex 4 is Green (G).
+Continue with vertices 5, 6, 7, 8, 9, 10:
+
+Vertex 5 must be adjacent to vertices 1 (B) and 2 (G), so it must be Red (R).
+Vertex 6 must be adjacent to vertices 1 (B) and 3 (B), creating a conflict since both adjacent vertices have the same color and cannot use either Blue (B) or Green (G). Thus, vertex 6 cannot be colored with Red (R).
+At this point, we encounter a contradiction:
+
+Vertex 6 is adjacent to two vertices (1 and 3), both of which are Blue (B). According to our assumption, we cannot color vertex 6 with Blue (B) or Green (G) because both colors are already used by its adjacent vertices.
+ 
+This contradiction demonstrates that Grötzsch graph is not 3-colorable
+
+what is left to do is show that the Grötzsch graph has a chromatic number of four by 
+
+![alt text](image.png)
