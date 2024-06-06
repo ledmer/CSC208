@@ -10,10 +10,10 @@ b. Ten members of Math Club are driving to a math conference in a neighboring st
 
 ![completegrap](student_conflicts.png)
 
-$ Vertex set: {A,B,C,D,E,F,G,H,I,J}$
+$Vertex set: {A,B,C,D,E,F,G,H,I,J}$
 
-$Edge set: (A−B),(A−E),(A−J),(B−A),(B−D),(B−G),(C−H),(C−J),(D−B),(D−F),$
-$(E−A),(E−I),(F−D),(F−J),(G−B),(H−C),(H−I),(I−E),(I−H),(I−J),(J−A),(J−C),(J−F),(J−I)$
+$Edge set: (A−B),(A−E),(A−J),(B−A),(B−D),(B−G),(C−H),(C−J),(D−B),(D−F),(E−A),$
+$(E−I),(F−D),(F−J),(G−B),(H−C),(H−I),(I−E),(I−H),(I−J),(J−A),(J−C),(J−F),(J−I)$
 
 > We use the conflicting sets that conflict to make our graphs
 
