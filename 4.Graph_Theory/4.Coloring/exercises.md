@@ -58,3 +58,5 @@ This contradiction demonstrates that Grötzsch graph is not 3-colorable
 what is left to do is show that the Grötzsch graph has a chromatic number of four by 
 
 ![alt text](image.png)
+
+Now we continue to [Johan's Presentation](https://github.com/johan-franco/csc208/blob/main/ch4_GraphTheory/sect4.4.md).
